@@ -17,3 +17,8 @@ To perform a deep analysis of an user's listening history to retrieve informatio
 
 # Architecture
 
+![alt text](https://github.com/Adarsh-Anil/spotify_listening_history_api/blob/main/Images/Data%20architecture.png?raw=true)
+
+
+
+
